@@ -9,7 +9,7 @@
 
 ### 🌍 Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/chethiya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/chethiyahitihamu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://github.com/chethiyanuwan" target="_blank"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github" alt="GitHub" /></a>
 </p>
 
