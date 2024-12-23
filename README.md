@@ -30,8 +30,8 @@ I'm an indie fullstack developer, turning ideas into reality. I thrive on the en
 ### 📊 GitHub Stats:
 
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=chethiyanuwan&show_icons=true&locale=en&theme=gruvbox" alt="chethiyanuwan" />
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=chethiyanuwan&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="chethiyanuwan" />
+    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=chethiyanuwan&show_icons=true&locale=en&theme=gruvbox" alt="chethiyanuwan" />
+    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=chethiyanuwan&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="chethiyanuwan" />
 </p>
 
 ---
