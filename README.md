@@ -16,7 +16,7 @@ I'm an indie fullstack developer, turning ideas into reality. I thrive on the en
 ### 💼 Portfolio
 
 <p align="left" style="display:flex; flex-wrap:wrap; gap:20px">
-    <p style="width:250px; display:grid; text-wrap:wrap">
+    <p align="center" style="width:250px; display:grid; text-wrap:wrap">
         <img src="./images/portfolio/tyre-sales-admin.png" alt="Description of photo" style="width:350px; height:160px; border-radius:8px; border:1px solid grey"/><br/>
         <span style="font-style:bold;font-size:medium">Tyre Sales Admin</span><br/>
         <span style="font-style:italic;font-size:smaller;opacity:0.8">A Sales Admin Web App</span>
