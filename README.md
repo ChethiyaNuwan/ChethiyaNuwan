@@ -14,14 +14,23 @@ I'm an indie fullstack developer, turning ideas into reality. I thrive on the en
    
 ---
 
-### 💼 Portfolio
+### 💼 Projects:
 
-<p align="left" style="display:flex; flex-wrap:wrap; gap:20px">
-    <p align="center" style="width:250px; display:grid; text-wrap:wrap">
-        <img src="./images/portfolio/tyre-sales-admin.png" alt="Description of photo" style="width:350px; height:160px; border-radius:8px; border:1px solid grey"/><br/>
-        <span style="font-style:bold;font-size:medium">Tyre Sales Admin</span><br/>
-        <span style="font-style:italic;font-size:smaller;opacity:0.8">A Sales Admin Web App</span>
-    </p>
+<p align="left" style="display:flex; gap:20px; overflow:auto; width: max-content">
+    <span style="width:350px; display:grid">
+        <img src="images/projects/tyre-sales-admin.png" alt="Tyre Sales Admin" style="width:350px; height:160px; border-radius:8px; border:1px solid grey"/><br/>
+        <a href="https://asenterprise.site" target="_blank" style="text-decoration: none; color:#f5f5f5; text-align:center">
+            <span style="font-weight:bold;font-size:medium">Tyre Sales Admin</span><br/>
+            <span style="font-style:italic;font-size:smaller;opacity:0.8">A Sales Admin Web App</span>
+        </a>
+    </span>
+    <span style="width:350px; display:grid">
+        <img src="images/projects/super-supply-impex.png" alt="Super Supply Impex" style="width:350px; height:160px; border-radius:8px; border:1px solid grey"/><br/>
+        <a href="https://ssimpex.stencoitsolutions.com" target="_blank" style="text-decoration: none; color:#f5f5f5; text-align:center">
+            <span style="font-weight:bold;font-size:medium">Super Supply Impex</span><br/>
+            <span style="font-style:italic;font-size:smaller;opacity:0.8">An Ecommerce Web App</span>
+        </a>
+    </span>
 </p>
 
 ---
@@ -31,13 +40,12 @@ I'm an indie fullstack developer, turning ideas into reality. I thrive on the en
 <p>
     <p align="center"><img height="42" src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=c,cpp,cs,java,py,bash" alt="Languages"/></p>
     <p align="center"><img height="42" src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=html,css,js,ts,angular,react,next,redux,tailwind,php,bootstrap,flutter,reactnative" alt="Frontend"/></p>
-    <p align="center"><img height="42" src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=bun,nodejs,spring,net,hono,express,prisma,mongoose" alt="Backend"/><p/>
-    <p align="center"><img height="42" src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=oracle,mysql,postgresql,sqlserver,mongodb" alt="Database"/><p/>
-    <p align="center"><img height="42" src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=docker,aws,azure,heroku,supabase,firebase,git,bitbucket" alt="DevOps"/><p/>
+    <p align="center"><img height="42" src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=bun,nodejs,spring,net,hono,express,prisma,mongoose" alt="Backend"/></p>
+    <p align="center"><img height="42" src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=oracle,mysql,postgresql,sqlserver,mongodb" alt="Database"/></p>
+    <p align="center"><img height="42" src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=docker,aws,azure,heroku,supabase,firebase,git,bitbucket" alt="DevOps"/></p>
 </p>
 
 ---
-
 
 ### 📊 GitHub Stats:
 
