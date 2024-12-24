@@ -8,6 +8,7 @@ I'm an indie fullstack developer, turning ideas into reality. I thrive on the en
 </p>
 
 <p align="left">
+    <a href="mailto:chethiya.code@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=f5f5f5" alt="Gmail" /></a>
     <a href="https://www.linkedin.com/in/chethiyahitihamu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 </p>
    
@@ -41,8 +42,8 @@ I'm an indie fullstack developer, turning ideas into reality. I thrive on the en
 ### 📊 GitHub Stats:
 
 <p align="center" style="display:flex; justify-content:center; flex-wrap:wrap">
-    <img height="190px" src="https://streak-stats.demolab.com?user=ChethiyaNuwan&theme=gruvbox&hide_border=true" alt="GitHub Streak" /><br/>
-    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=chethiyanuwan&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="chethiyanuwan" />
+<!--     <img height="190px" src="https://streak-stats.demolab.com?user=chethiyanuwan&hide_border=true" alt="GitHub Streak" /><br/> -->
+    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=chethiyanuwan&show_icons=true&locale=en&theme=gruvbox&hide_border=true&rank_icon=github" alt="chethiyanuwan" />
     <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=chethiyanuwan&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true" alt="chethiyanuwan" />
 </p>
 
