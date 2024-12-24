@@ -17,20 +17,17 @@ I'm an indie fullstack developer, turning ideas into reality. I thrive on the en
 ### 💼 Projects:
 
 <p align="left" style="display:flex; gap:20px; overflow:auto; width: max-content">
-    <span style="width:350px; display:grid">
-        <img src="images/projects/tyre-sales-admin.png" alt="Tyre Sales Admin" style="width:350px; height:160px; border-radius:8px; border:1px solid grey"/><br/>
-        <a href="https://asenterprise.site" target="_blank" style="text-decoration: none; color:#f5f5f5; text-align:center">
-            <span style="font-weight:bold;font-size:medium">Tyre Sales Admin</span><br/>
-            <span style="font-style:italic;font-size:smaller;opacity:0.8">A Sales Admin Web App</span>
-        </a>
-    </span>
-    <span style="width:350px; display:grid">
-        <img src="images/projects/super-supply-impex.png" alt="Super Supply Impex" style="width:350px; height:160px; border-radius:8px; border:1px solid grey"/><br/>
-        <a href="https://ssimpex.stencoitsolutions.com" target="_blank" style="text-decoration: none; color:#f5f5f5; text-align:center">
-            <span style="font-weight:bold;font-size:medium">Super Supply Impex</span><br/>
-            <span style="font-style:italic;font-size:smaller;opacity:0.8">An Ecommerce Web App</span>
-        </a>
-    </span>
+  <a href="https://asenterprise.site" target="_blank" name="asenterprise" style="text-decoration:none">
+    <img style="width: 350px; border: 1px solid #f5f5f5; border-radius: 8px; text-decoration:none" src="./images/projects/tyre-sales-admin.png" alt="Tyre Sales Admin" 
+        title="Tyre Sales Admin
+-> a sales admin web app">
+  </a>
+    &nbsp;
+  <a href="https://ssimpex.stencoitsolutions.com" target="_blank" name="ssimpex" style="text-decoration:none">
+    <img style="width: 350px; border: 1px solid #f5f5f5; border-radius: 8px" width="350px" src="./images/projects/super-supply-impex.png" alt="Super Supply Impex" 
+    title="Super Supply Impex
+-> an e-commerce web app">
+  </a>
 </p>
 
 ---
